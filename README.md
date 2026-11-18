@@ -25,7 +25,7 @@ Casgo implements version 1.0 of the [CAS Specification](http://www.yale.edu/tp/c
 1. Install [bower](http://bower.io)
 2. `bower install`
 3. Install [go.rice](https://github.com/GeertJohan/go.rice)
-4. `go get github.com/t3hmrman/casgo`
+4. `go get github.com/runner28-code/casgo`
 5. `make all` (or `go install`/`go build`)
 6. Ensure port 443 is open (and your database instance is at the right port, 28015 by default)
 7. `casgo`
